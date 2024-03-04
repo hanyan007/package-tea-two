@@ -12,7 +12,7 @@ with open("README.rst", "r") as f:
   long_description = f.read()
 
 
-setup(name='package-tea-one',  # 包名
+setup(name='package-tea-two',  # 包名
       version='1.0.0',  # 版本号
       description='small package just example',
       long_description=long_description,
